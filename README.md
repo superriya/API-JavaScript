@@ -1,4 +1,6 @@
 ## Fetch API & Rendering Data with JavaScript
+## Test your front-end against a real API 
+[a link](https://reqres.in)
 
 #### Key Takeaways 
 - The Fetch API returns a Promise, so you need to wait for the promise to resolve by using .then() after it.
